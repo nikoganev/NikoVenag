@@ -1,0 +1,77 @@
+baseURL = "http://nikovenag.com/"
+languageCode = "en-us"
+title = "NikoVenag"
+theme = "timer-hugo"
+staticDir="static"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "About"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Service"
+        url     = "/service"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 4
+    
+    
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/nikovenag.png"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider.jpg"
+        heading = "HI, MY NAME IS NIKO & I AM A"
+        description = "WITH 5 YEARS EXPERIENCE, I'VE OCCUPIED MANY ROLES INCLUDING FRONT-END DEVELOPER, WEB DESIGNER AND MARKETING OPERATIONS. THIS SITE SHOWCASES SOME OF MY WORK."
+        btn     = true
+        btnText = "Learn More"
+        btnURL  = "/#works"
+        [[params.banner.flipText]]
+            title   = "DESIGNER"
+        [[params.banner.flipText]]
+            title   = "DEVELOPER"
+        [[params.banner.flipText]]
+            title   = "ENGINEER"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT ME"
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Barcelona, Spain. I hold degree of Front-end/Web Development and I'm certified in HubSpot CRM. In the past I worked as Front-end developer, Web Designer, and Marketing Operations. I enjoy creating interactive and responsive websites. Building a wireframe and turning it into a live website is only one of my skills. I built massive Marketing Solutions working closely with Marketing Teams to maximise activation and retention metrics. Analysing your brand and industry to better understand your current metrics and set a goal for increasing customers. In my free time I like reading books, publush market analysis videos and working out."
+        image   = "images/niko-ganev.png"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "SO WHAT YOU THINK ?"
+        content = "Send me a message if you have any questions or you want to receive more information on the plans. :)"
+        btnText = "Contact with me"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Portfolio"
+        subtitle= "I have a diverse set of skills ranging from design, to HTML + CSS, javascript to Marketing CRM and SEO Optimisations. Bellow you can see the packages that I'm offering."
+        
+
+    # Feature Product Section
+    [params.featureProduct]
+        enable  = true
+        title   = "SOME OF OUR FEATURES WORKS"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere <br> tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    
