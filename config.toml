@@ -2,8 +2,8 @@ baseURL = "http://nikovenag.com/"
 languageCode = "en-us"
 title = "NikoVenag"
 theme = "timer-hugo"
-staticDir="static"
-publishDir: docs
+staticDir= "static"
+publishDir= "docs"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
