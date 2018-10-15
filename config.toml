@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "NikoVenag"
 theme = "timer-hugo"
 staticDir= "static"
-publishDir= "docs"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
@@ -66,7 +65,7 @@ publishDir= "docs"
     [params.portfolio]
         enable  = true
         title   = "Portfolio"
-        subtitle= "I have a diverse set of skills ranging from design, to HTML + CSS, javascript to Marketing CRM and SEO Optimisations. Bellow you can see the packages that I'm offering."
+        subtitle= "I have a diverse set of skills ranging from design, to HTML + CSS, javascript to Marketing CRM and SEO Optimisations. You can choose a template from my portfolio and I will deliver a website to you in 5 Business days."
         
 
     # Feature Product Section
