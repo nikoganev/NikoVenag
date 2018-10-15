@@ -1,14 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Gestorias Baratas</title>
-    <link>https://gestoriasbaratas.es/tags/</link>
-    <description>Recent content in Tags on Gestorias Baratas</description>
+    <title>Tags on NikoVenag</title>
+    <link>http://nikovenag.com/tags/</link>
+    <description>Recent content in Tags on NikoVenag</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es</language>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:21:58 +0600</lastBuildDate>
     
-	<atom:link href="https://gestoriasbaratas.es/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nikovenag.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Business</title>
+      <link>http://nikovenag.com/tags/business/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://nikovenag.com/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inspiration</title>
+      <link>http://nikovenag.com/tags/inspiration/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://nikovenag.com/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>http://nikovenag.com/tags/internet/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://nikovenag.com/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motivation</title>
+      <link>http://nikovenag.com/tags/motivation/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://nikovenag.com/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>http://nikovenag.com/tags/people/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://nikovenag.com/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>http://nikovenag.com/tags/tech/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://nikovenag.com/tags/tech/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
