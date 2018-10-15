@@ -1,4 +1,4 @@
-# nikovenag.com - web project
+# nikovenag.com
 
 
 ## Local run (macOS)
