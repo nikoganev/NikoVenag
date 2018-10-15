@@ -50,7 +50,7 @@ staticDir= "static"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Barcelona, Spain. I hold degree of Front-end/Web Development and I'm certified in HubSpot CRM. In the past I worked as Front-end developer, Web Designer, and Marketing Operations. I enjoy creating interactive and responsive websites. Building a wireframe and turning it into a live website is only one of my skills. I built massive Marketing Solutions working closely with Marketing Teams to maximise activation and retention metrics. Analysing your brand and industry to better understand your current metrics and set a goal for increasing customers. In my free time I like reading books, publush market analysis videos and working out."
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Barcelona, Spain. I hold degree of Front-end/Web Development and I'm certified in HubSpot CRM. In the past I worked as Front-end developer, Web Designer, and Marketing Operations. I enjoy creating interactive and responsive websites. Building a wireframe and turning it into a live website is only one of my skills. I built massive Marketing Solutions working closely with Marketing Teams to maximise activation and retention metrics. Analysing your brand and industry to better understand your current metrics and set a goal for increasing customers. In my free time I like reading books, publish market analysis videos and working out."
         image   = "images/niko-ganev.png"
 
     # Call to Action
