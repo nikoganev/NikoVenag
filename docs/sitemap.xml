@@ -3,26 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nikovenag.com/blog/</loc>
-    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/blog/a-new-year-a-new-posibility/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/blog/building-an-online-audience/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/blog/space-shouldnt-be-the-final-frontier/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://nikovenag.com/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
   </url>
@@ -85,12 +65,6 @@
   </url>
   
   <url>
-    <loc>http://nikovenag.com/tags/business/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://nikovenag.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -125,26 +99,8 @@
   </url>
   
   <url>
-    <loc>http://nikovenag.com/tags/inspiration/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/tags/internet/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/tags/motivation/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://nikovenag.com/</loc>
-    <lastmod>2018-07-15T12:29:40+06:00</lastmod>
+    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,12 +110,6 @@
   
   <url>
     <loc>http://nikovenag.com/service/feature/page-optimization/</loc>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/tags/people/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -178,13 +128,6 @@
   
   <url>
     <loc>http://nikovenag.com/tags/</loc>
-    <lastmod>2018-07-15T12:21:58+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://nikovenag.com/tags/tech/</loc>
-    <lastmod>2018-07-15T12:27:38+06:00</lastmod>
     <priority>0</priority>
   </url>
   
