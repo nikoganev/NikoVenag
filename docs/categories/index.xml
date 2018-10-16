@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NikoVenag</title>
-    <link>http://nikovenag.com/categories/</link>
+    <link>https://nikovenag.com/categories/</link>
     <description>Recent content in Categories on NikoVenag</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://nikovenag.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nikovenag.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
