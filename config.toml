@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "NikoVenag"
 theme = "timer-hugo"
 staticDir= "static"
-publishDir= "public"
+publishDir= "docs"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
