@@ -1,4 +1,4 @@
-baseURL = "http://nikovenag.com/"
+baseURL = "https://nikovenag.com/"
 languageCode = "en-us"
 title = "NikoVenag"
 theme = "timer-hugo"
