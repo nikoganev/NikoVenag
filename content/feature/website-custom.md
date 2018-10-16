@@ -1,5 +1,5 @@
 ---
-title: "Custom Build Website"
+title: "Custom Website"
 type: feature
 image: images/website-custom-page.png
 ---
