@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>NikoVenag</title>
+    <title>NikoVenag - Web and Digital Marketing</title>
     <link>https://nikovenag.com/</link>
-    <description>Recent content on NikoVenag</description>
+    <description>Recent content on NikoVenag - Web and Digital Marketing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0600</lastBuildDate>
@@ -124,16 +124,6 @@ We need to gather together to better understand your business and goal. Then I w
     
     <item>
       <title>Custom Build Website</title>
-      <link>https://nikovenag.com/feature/website-custom/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://nikovenag.com/feature/website-custom/</guid>
-      <description>BUILDING A WEBSITE FROM A TEMPLATE Creating and building your website on your own taste. We can start from a Template and then moving around sections and navigation menu. I can change style of everything(font, color, links, etc). Another option can be that you send me a wireframe and guidelines and I built the website from there.
-I can build custom wireframe and website color guidelines for you. After understanding your vision for the website and your business needs I will create and deliver a pdf file with the wireframe.</description>
-    </item>
-    
-    <item>
-      <title>Custom Build Website</title>
       <link>https://nikovenag.com/feature/website-template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -158,6 +148,16 @@ I can build custom wireframe and website color guidelines for you. After underst
       
       <guid>https://nikovenag.com/service/feature/website-template/</guid>
       <description>CUSTOM WEBSITE You can choose a Template from the Portfolio Section on my Website. All of the Templates are fully responsive on all devices. There are different Templates that you can choose from depending on your taste. Create, Build and deliver your website in 5 Business days. This is the cheapest package that I can offer to you. By delivering you this website, you won&amp;rsquo;t have to pay expenses for Host/Infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Custom Website</title>
+      <link>https://nikovenag.com/feature/website-custom/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nikovenag.com/feature/website-custom/</guid>
+      <description>BUILDING A WEBSITE FROM A TEMPLATE Creating and building your website on your own taste. We can start from a Template and then moving around sections and navigation menu. I can change style of everything(font, color, links, etc). Another option can be that you send me a wireframe and guidelines and I built the website from there.
+I can build custom wireframe and website color guidelines for you. After understanding your vision for the website and your business needs I will create and deliver a pdf file with the wireframe.</description>
     </item>
     
     <item>

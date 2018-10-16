@@ -1,6 +1,6 @@
 baseURL = "https://nikovenag.com/"
 languageCode = "en-us"
-title = "NikoVenag"
+title = "NikoVenag - Web and Digital Marketing"
 theme = "timer-hugo"
 staticDir= "static"
 publishDir= "docs"
