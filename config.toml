@@ -22,6 +22,10 @@ publishDir= "docs"
         name    = "Contact"
         url     = "/contact"
         weight  = 4
+     [[menu.nav]]
+        name    = "Login"
+        url     = "/login"
+        weight  = 5
     
     
 
