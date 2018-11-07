@@ -1,4 +1,4 @@
-# nikovenag.com - web project
+# nikovenag.com
 
 
 ## Local run (macOS)
@@ -9,4 +9,4 @@ cd nikovenag
 hugo server &
 open http://localhost:1313
 ```
-# NikoVenag
+

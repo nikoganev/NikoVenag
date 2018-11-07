@@ -3,7 +3,7 @@
 <head>
     {{ "<!-- Basic Page Needs -->" | safeHTML }}
     <meta charset="utf-8">
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge"/>
     <meta name="description" content="">
     <meta name="keywords" content="">
     <meta name="author" content="">
@@ -43,7 +43,7 @@
             <div class="col-lg-12">
                 <nav class="navbar navbar-expand-lg navbar-light bg-light">
                     <a class="navbar-brand" href="{{ .Site.BaseURL }}">
-                        <img src="{{ .Site.Params.logo | absURL }}" alt="logo">
+                        <img src="{{ .Site.Params.logo | absURL }}" alt="NikoVenag">
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -60,6 +60,7 @@
                                 <a class="nav-link" href="{{ .URL }}">{{ .Name }}</a>
                             </li>
                             {{ end }}
+                        </ul>
                     </div>
                 </nav>
             </div>

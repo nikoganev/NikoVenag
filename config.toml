@@ -1,6 +1,6 @@
-baseURL = "http://nikovenag.com/"
+baseURL = "https://nikovenag.com/"
 languageCode = "en-us"
-title = "NikoVenag"
+title = "NikoVenag - Web and Digital Marketing"
 theme = "timer-hugo"
 staticDir= "static"
 publishDir= "docs"
@@ -51,7 +51,7 @@ publishDir= "docs"
     [params.about]
         enable  = true
         title   = "ABOUT ME"
-        content = "Hello, I’m a UI/UX Designer & Front End Developer from Barcelona, Spain. I hold degree of Front-end/Web Development and I'm certified in HubSpot CRM. In the past I worked as Front-end developer, Web Designer, and Marketing Operations. I enjoy creating interactive and responsive websites. Building a wireframe and turning it into a live website is only one of my skills. I built massive Marketing Solutions working closely with Marketing Teams to maximise activation and retention metrics. Analysing your brand and industry to better understand your current metrics and set a goal for increasing customers. In my free time I like reading books, publush market analysis videos and working out."
+        content = "Hello, I’m a UI/UX Designer & Front End Developer from Barcelona, Spain. I hold degree of Front-end/Web Development and I'm certified in HubSpot CRM. In the past I worked as Front-end developer, Web Designer, and Marketing Operations. I enjoy creating interactive and responsive websites. Building a wireframe and turning it into a live website is only one of my skills. I built massive Marketing Solutions working closely with Marketing Teams to maximise activation and retention metrics. Analysing your brand and industry to better understand your current metrics and set a goal for increasing customers. In my free time I like reading books, publish market analysis videos and working out."
         image   = "images/niko-ganev.png"
 
     # Call to Action
@@ -66,7 +66,7 @@ publishDir= "docs"
     [params.portfolio]
         enable  = true
         title   = "Portfolio"
-        subtitle= "I have a diverse set of skills ranging from design, to HTML + CSS, javascript to Marketing CRM and SEO Optimisations. Bellow you can see the packages that I'm offering."
+        subtitle= "I have a diverse set of skills ranging from design, to HTML + CSS, javascript to Marketing CRM and SEO Optimisations. You can choose a template from my portfolio and I will deliver a website to you in 5 Business days."
         
 
     # Feature Product Section
