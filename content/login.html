@@ -46,7 +46,9 @@
                     messagingSenderId: "517050621605"
                   };
                   firebase.initializeApp(config);
+                  var database = firebase.database();
                 </script>
+                <script src="https://cdn.firebase.com/js/client/2.3.1/firebase.js"></script>
                 <script src="../js/index.js"></script>
         
 
@@ -117,6 +119,7 @@
             <div id="user_div" class="loggedin-div">
                 <h3> welcome user </h3>
                 <p id="user_para">Hey if you see this message you can give me some kudos</p>
+                <p id="credits">this are your credits: <span id="credits_number"></span></p>
                 <button onclick="logout()">Logout</button>
             </div>
         </div>

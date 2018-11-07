@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://nikovenag.com/blog/first-blog/</loc>
+    <lastmod>2018-11-05T12:00:40+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nikovenag.com/blog/</loc>
+    <lastmod>2018-07-15T12:32:37+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nikovenag.com/contact/</loc>
     <lastmod>2018-07-14T17:09:20+06:00</lastmod>
   </url>
@@ -103,8 +113,14 @@
   </url>
   
   <url>
+    <loc>https://nikovenag.com/tags/first-blog/</loc>
+    <lastmod>2018-11-05T12:00:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://nikovenag.com/</loc>
-    <lastmod>2018-07-12T16:59:54+06:00</lastmod>
+    <lastmod>2018-11-05T12:00:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -132,6 +148,13 @@
   
   <url>
     <loc>https://nikovenag.com/tags/</loc>
+    <lastmod>2018-11-05T12:00:40+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nikovenag.com/tags/welcome/</loc>
+    <lastmod>2018-11-05T12:00:40+06:00</lastmod>
     <priority>0</priority>
   </url>
   

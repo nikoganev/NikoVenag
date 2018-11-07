@@ -1,4 +1,6 @@
 
+
+
 firebase.auth().onAuthStateChanged(function(user) {
   if (user) {
     // User is signed in.
@@ -7,11 +9,24 @@ firebase.auth().onAuthStateChanged(function(user) {
     document.getElementById("login_div").style.display = "none";
 
     var user = firebase.auth().currentUser;
-
+    var database = firebase.database();
+    var ref = new Firebase("https://nikovenag-84cf5.firebaseio.com/database/nikovenag-84cf5/fireblog");
+    var starCountRef = new Firebase("https://nikovenag-84cf5.firebaseio.com/database/nikovenag-84cf5/data/niko/credits");
     if(user != null) {
     	var email_id = user.email;
-    	document.getElementById("user_para").innerHTML = "Welcome User : " + email;
+    	document.getElementById("user_para").innerHTML = "Welcome User : " + email_id;
+
+    	
+		
+
+		starCountRef.on("value", function(snapshot) {
+					console.log("hurray");
+					document.getElementById("credits_number").value = snapshot.val();
+					console.log(snapshot.val());
+		});
+		
     }
+    
   } else {
     // No user is signed in.
     document.getElementById("user_div").style.display = "none";
@@ -40,3 +55,5 @@ function login () {
 function logout(){
 	firebase.auth().signOut();
 }
+
+

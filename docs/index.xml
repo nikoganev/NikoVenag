@@ -6,10 +6,20 @@
     <description>Recent content on NikoVenag - Web and Digital Marketing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 16:59:54 +0600</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 12:00:40 +0600</lastBuildDate>
     
 	<atom:link href="https://nikovenag.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Welcome to my Blog</title>
+      <link>https://nikovenag.com/blog/first-blog/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:40 +0600</pubDate>
+      
+      <guid>https://nikovenag.com/blog/first-blog/</guid>
+      <description>Welcome ! This is my first blog post that I ever created in my life. As such I would like to introduce myself and let you know what you can expect reading here.
+My name is Niko and I like multitasking! My blogposts will not be the typical ones that are focused only on 1 area. I like doing many things at the same time and this is how I keep myself happy and productive.</description>
+    </item>
     
     <item>
       <title>Product/Services Page</title>

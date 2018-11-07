@@ -6,9 +6,28 @@
     <description>Recent content in Tags on NikoVenag - Web and Digital Marketing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 05 Nov 2018 12:00:40 +0600</lastBuildDate>
     
 	<atom:link href="https://nikovenag.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>First Blog</title>
+      <link>https://nikovenag.com/tags/first-blog/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:40 +0600</pubDate>
+      
+      <guid>https://nikovenag.com/tags/first-blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://nikovenag.com/tags/welcome/</link>
+      <pubDate>Mon, 05 Nov 2018 12:00:40 +0600</pubDate>
+      
+      <guid>https://nikovenag.com/tags/welcome/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

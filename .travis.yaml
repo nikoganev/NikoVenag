@@ -1,0 +1,34 @@
+language: python
+
+python:
+    - "3.6"
+
+env:
+  - HUGO_VERSION=0.49.2
+
+install:
+  - pip install Pygments
+  - npm install -g postcss-cli
+  - npm install -g bulma
+  - npm install -g minify
+  - npm install -g fingerprint
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.49.2/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar xvzf hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - ls -l
+  - export PATH=${PATH}:${PWD}
+  - echo $PATH
+
+script:
+  - rm -rf docs
+  - hugo
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  email: $GITHUB_EMAIL
+  name: $GITHUB_USERNAME
+  verbose: true
+  keep-history: true
+  local-dir: .
+  target_branch: master
